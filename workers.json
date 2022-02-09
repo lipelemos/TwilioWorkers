@@ -1,0 +1,3665 @@
+[
+    {
+      "FriendlyName": "adriana.oliveira@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "adriana.oliveira@minutoseguros.com.br",
+        "ogmUsername": "adriana.oliveira",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Projeto Porto Seguros"
+      }
+    },
+    {
+      "FriendlyName": "adriano.cadenazzi@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor, wfo.quality_manager" ],
+        "emailMinuto": "adriano.cadenazzi@minutoseguros.com.br",
+        "ogmUsername": "adriano.cadenazzi",
+        "roleCustom": "Supervisor",
+        "area": "Seguro Novo",
+        "equipe": "Supervisores Vendas"
+      }
+    },
+    {
+      "FriendlyName": "adriano.ferrari@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor, wfo.quality_manager" ],
+        "emailMinuto": "adriano.ferrari@minutoseguros.com.br",
+        "ogmUsername": "adriano.ferrari",
+        "roleCustom": "Supervisor",
+        "area": "Seguro Novo",
+        "equipe": "Supervisores Vendas"
+      }
+    },
+    {
+      "FriendlyName": "agatha.garcia@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "agatha.garcia@minutoseguros.com.br",
+        "ogmUsername": "agatha.garcia",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Wallace Nascimento"
+      }
+    },
+    {
+      "FriendlyName": "ailana.lucena@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor, wfo.quality_manager" ],
+        "emailMinuto": "ailana.lucena@minutoseguros.com.br",
+        "ogmUsername": "ailana.lucena",
+        "roleCustom": "Supervisor",
+        "area": "Pós-vendas",
+        "equipe": "Lideres Pos Vendas"
+      }
+    },
+    {
+      "FriendlyName": "alan.scuriza@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "alan.scuriza@minutoseguros.com.br",
+        "ogmUsername": "alan.scuriza",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Margareth Tumbert"
+      }
+    },
+    {
+      "FriendlyName": "alanis.araujo@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "alanis.araujo@minutoseguros.com.br",
+        "ogmUsername": "alanis.araujo",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Administrativo - Pós Vendas"
+      }
+    },
+    {
+      "FriendlyName": "alef.santos@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "alef.santos@minutoseguros.com.br",
+        "ogmUsername": "alef.santos",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Devolução de valores - Pós-vendas"
+      }
+    },
+    {
+      "FriendlyName": "alessandra.correia@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "alessandra.correia@minutoseguros.com.br",
+        "ogmUsername": "alessandra.correia",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Erick Ishiy"
+      }
+    },
+    {
+      "FriendlyName": "alexsandro.porto@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "alexsandro.porto@minutoseguros.com.br",
+        "ogmUsername": "alexsandro.porto",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Adriano Cadenazzi"
+      }
+    },
+    {
+      "FriendlyName": "alice.barbosa@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "alice.barbosa@minutoseguros.com.br",
+        "ogmUsername": "alice.barbosa",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Diego Andreoli"
+      }
+    },
+    {
+      "FriendlyName": "aline.rocha@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "aline.rocha@minutoseguros.com.br",
+        "ogmUsername": "aline.rocha",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Adriano Cadenazzi"
+      }
+    },
+    {
+      "FriendlyName": "aline.nascimento@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "aline.nascimento@minutoseguros.com.br",
+        "ogmUsername": "aline.nascimento",
+        "roleCustom": "Central",
+        "area": "Fidelização",
+        "equipe": "Pre Renovacao"
+      }
+    },
+    {
+      "FriendlyName": "aline.teixeira@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "aline.teixeira@minutoseguros.com.br",
+        "ogmUsername": "aline.teixeira",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Wallace Nascimento"
+      }
+    },
+    {
+      "FriendlyName": "aline.vieira@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor, wfo.quality_manager" ],
+        "emailMinuto": "aline.vieira@minutoseguros.com.br",
+        "ogmUsername": "aline.vieira",
+        "roleCustom": "Supervisor",
+        "area": "Fidelização",
+        "equipe": "Lideres Fidelização"
+      }
+    },
+    {
+      "FriendlyName": "aline.storto@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "aline.storto@minutoseguros.com.br",
+        "ogmUsername": "aline.storto",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Valeria Gonçalves"
+      }
+    },
+    {
+      "FriendlyName": "aline.loiola@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "aline.loiola@minutoseguros.com.br",
+        "ogmUsername": "aline.loiola",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Diego Andreoli"
+      }
+    },
+    {
+      "FriendlyName": "alline.falcao@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "alline.falcao@minutoseguros.com.br",
+        "ogmUsername": "alline.falcao",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Diego Andreoli"
+      }
+    },
+    {
+      "FriendlyName": "aloisio.filho@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "aloisio.filho@minutoseguros.com.br",
+        "ogmUsername": "aloisio.filho",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Pagamento - Pós Vendas"
+      }
+    },
+    {
+      "FriendlyName": "amanda.soares@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "amanda.soares@minutoseguros.com.br",
+        "ogmUsername": "amanda.soares",
+        "roleCustom": "Central",
+        "area": "Central",
+        "equipe": "Central - Chat"
+      }
+    },
+    {
+      "FriendlyName": "amanda.joyce@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "amanda.joyce@minutoseguros.com.br",
+        "ogmUsername": "amanda.joyce",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Diego Andreoli"
+      }
+    },
+    {
+      "FriendlyName": "amanda.afonso@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "amanda.afonso@minutoseguros.com.br",
+        "ogmUsername": "amanda.afonso",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Adriano Cadenazzi"
+      }
+    },
+    {
+      "FriendlyName": "amanda.freitas@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "amanda.freitas@minutoseguros.com.br",
+        "ogmUsername": "amanda.freitas",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Endosso - Pós-vendas"
+      }
+    },
+    {
+      "FriendlyName": "amanda.santos2@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "amanda.santos2@minutoseguros.com.br",
+        "ogmUsername": "amanda.santos2",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Fernanda Pires"
+      }
+    },
+    {
+      "FriendlyName": "ana.nascimento1@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "ana.nascimento@minutoseguros.com.br",
+        "ogmUsername": "ana.nascimento",
+        "roleCustom": "Treinamento",
+        "area": "Treinamento",
+        "equipe": "Treinamento"
+      }
+    },
+    {
+      "FriendlyName": "ana.henrique@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "ana.henrique@minutoseguros.com.br",
+        "ogmUsername": "ana.henrique",
+        "roleCustom": "Central",
+        "area": "Fidelização",
+        "equipe": "Pre Renovacao"
+      }
+    },
+    {
+      "FriendlyName": "ana.caroline2@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "ana.caroline@minutoseguros.com.br",
+        "ogmUsername": "ana.caroline",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Roberta Kikuchi"
+      }
+    },
+    {
+      "FriendlyName": "ana.soligo@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "ana.soligo@minutoseguros.com.br",
+        "ogmUsername": "ana.soligo",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Valeria Gonçalves"
+      }
+    },
+    {
+      "FriendlyName": "ana.souza1@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "ana.souza1@minutoseguros.com.br",
+        "ogmUsername": "ana.souza1",
+        "roleCustom": "Central",
+        "area": "Central",
+        "equipe": "Central - Telefone"
+      }
+    },
+    {
+      "FriendlyName": "ana.feitosa@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "ana.feitosa2@minutoseguros.com.br",
+        "ogmUsername": "ana.feitosa2",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Endosso - Pós-vendas"
+      }
+    },
+    {
+      "FriendlyName": "ana.candido@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor, wfo.quality_manager" ],
+        "emailMinuto": "ana.candido@minutoseguros.com.br",
+        "ogmUsername": "ana.candido",
+        "roleCustom": "Supervisor",
+        "area": "Central",
+        "equipe": "Supervisão Central"
+      }
+    },
+    {
+      "FriendlyName": "ana.lima2@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "ana.lima@minutoseguros.com.br",
+        "ogmUsername": "ana.lima",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Adriano Cadenazzi"
+      }
+    },
+    {
+      "FriendlyName": "ana.almeida@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "ana.almeida@minutoseguros.com.br",
+        "ogmUsername": "ana.almeida",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Adriano Cadenazzi"
+      }
+    },
+    {
+      "FriendlyName": "ana.more@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "ana.more@minutoseguros.com.br",
+        "ogmUsername": "ana.more",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Wallace Nascimento"
+      }
+    },
+    {
+      "FriendlyName": "anderson.neves@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "anderson.neves@minutoseguros.com.br",
+        "ogmUsername": "anderson.neves",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Diego Andreoli"
+      }
+    },
+    {
+      "FriendlyName": "andre.gomes@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor,wfo.full_access" ],
+        "emailMinuto": "andre.gomes@minutoseguros.com.br",
+        "ogmUsername": "andre.gomes",
+        "roleCustom": "Relatórios",
+        "area": "RH",
+        "equipe": "RH"
+      }
+    },
+    {
+      "FriendlyName": "andresa.souza@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "andresa.souza@minutoseguros.com.br",
+        "ogmUsername": "andresa.souza",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Pendencia e Emissão - Pós Vendas"
+      }
+    },
+    {
+      "FriendlyName": "andressa.alves@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "andressa.alves@minutoseguros.com.br",
+        "ogmUsername": "andressa.alves",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Guilherme Pimentel"
+      }
+    },
+    {
+      "FriendlyName": "angelica.francisco@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "angelica.francisco@minutoseguros.com.br",
+        "ogmUsername": "angelica.francisco",
+        "roleCustom": "Treinamento",
+        "area": "RE & Beneficios",
+        "equipe": "Benefícios - Vendas"
+      }
+    },
+    {
+      "FriendlyName": "anne.carvalho@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "anne.carvalho@minutoseguros.com.br",
+        "ogmUsername": "anne.carvalho",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Pagamento - Pós Vendas"
+      }
+    },
+    {
+      "FriendlyName": "ariane.bandeira@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "ariane.bandeira@minutoseguros.com.br",
+        "ogmUsername": "ariane.bandeira",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Roberta Kikuchi"
+      }
+    },
+    {
+      "FriendlyName": "ariel.cristhina@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "ariel.cristhina@minutoseguros.com.br",
+        "ogmUsername": "ariel.cristhina",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Roberta Kikuchi"
+      }
+    },
+    {
+      "FriendlyName": "barbara.loureiro@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "barbara.loureiro@minutoseguros.com.br",
+        "ogmUsername": "barbara.loureiro",
+        "roleCustom": "Central",
+        "area": "Seguro Novo",
+        "equipe": "Projeto Porto Seguros"
+      }
+    },
+    {
+      "FriendlyName": "beatriz.pereira@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "beatriz.pereira@minutoseguros.com.br",
+        "ogmUsername": "beatriz.pereira",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Wallace Nascimento"
+      }
+    },
+    {
+      "FriendlyName": "beatriz.morais1@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "beatriz.morais@minutoseguros.com.br",
+        "ogmUsername": "beatriz.morais",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Administrativo - Pós Vendas"
+      }
+    },
+    {
+      "FriendlyName": "beatriz.andrade@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "beatriz.andrade@minutoseguros.com.br",
+        "ogmUsername": "beatriz.andrade",
+        "roleCustom": "Agent",
+        "area": "RE & Beneficios",
+        "equipe": "Ramos Elementares - Venda"
+      }
+    },
+    {
+      "FriendlyName": "bianca.silva1@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "bianca.silva@minutoseguros.com.br",
+        "ogmUsername": "bianca.silva",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Adriano Cadenazzi"
+      }
+    },
+    {
+      "FriendlyName": "breno.lira@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor, wfo.quality_manager" ],
+        "emailMinuto": "breno.lira@minutoseguros.com.br",
+        "ogmUsername": "breno.lira",
+        "roleCustom": "Supervisor",
+        "area": "Pós-vendas",
+        "equipe": "Lideres Pos Vendas"
+      }
+    },
+    {
+      "FriendlyName": "bruna.torres@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "bruna.torres@minutoseguros.com.br",
+        "ogmUsername": "bruna.torres",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Diego Andreoli"
+      }
+    },
+    {
+      "FriendlyName": "bruna.almeida1@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "bruna.almeida@minutoseguros.com.br",
+        "ogmUsername": "bruna.almeida",
+        "roleCustom": "Agent",
+        "area": "RE & Beneficios",
+        "equipe": "Benefícios - Vendas"
+      }
+    },
+    {
+      "FriendlyName": "bruna.stavik@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "bruna.stavik@minutoseguros.com.br",
+        "ogmUsername": "bruna.stavik",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Administrativo - Pós Vendas"
+      }
+    },
+    {
+      "FriendlyName": "bruno.oliveira1@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "bruno.oliveira@minutoseguros.com.br",
+        "ogmUsername": "bruno.oliveira",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Margareth Tumbert"
+      }
+    },
+    {
+      "FriendlyName": "bruno.pereira1@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "bruno.pereira@minutoseguros.com.br",
+        "ogmUsername": "bruno.pereira",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Wallace Nascimento"
+      }
+    },
+    {
+      "FriendlyName": "camila.lourenco1@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "camila.lourenco@minutoseguros.com.br",
+        "ogmUsername": "camila.lourenco",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Wallace Nascimento"
+      }
+    },
+    {
+      "FriendlyName": "camila.almeida1@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "camila.almeida@minutoseguros.com.br",
+        "ogmUsername": "camila.almeida",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Transmissao"
+      }
+    },
+    {
+      "FriendlyName": "camilla.marques@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "camilla.marques@minutoseguros.com.br",
+        "ogmUsername": "camilla.marques",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Pendencia e Emissão - Pós Vendas"
+      }
+    },
+    {
+      "FriendlyName": "camilli.cordeiro@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "camilli.cordeiro@minutoseguros.com.br",
+        "ogmUsername": "camilli.cordeiro",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Administrativo - Pós Vendas"
+      }
+    },
+    {
+      "FriendlyName": "carina.santos@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "carina.santos@minutoseguros.com.br",
+        "ogmUsername": "carina.santos",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Wallace Nascimento"
+      }
+    },
+    {
+      "FriendlyName": "carla.avelino@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "carla.avelino@minutoseguros.com.br",
+        "ogmUsername": "carla.avelino",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Fernanda Pires"
+      }
+    },
+    {
+      "FriendlyName": "carolina.alves@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "carolina.alves@minutoseguros.com.br",
+        "ogmUsername": "carolina.alves",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Roberta Kikuchi"
+      }
+    },
+    {
+      "FriendlyName": "caroline.souza@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "caroline.souza@minutoseguros.com.br",
+        "ogmUsername": "caroline.souza",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Erick Ishiy"
+      }
+    },
+    {
+      "FriendlyName": "caroline.almeida@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "caroline.almeida@minutoseguros.com.br",
+        "ogmUsername": "caroline.almeida",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Erick Ishiy"
+      }
+    },
+    {
+      "FriendlyName": "caroline.amorim@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor, wfo.quality_manager" ],
+        "emailMinuto": "caroline.amorim@minutoseguros.com.br",
+        "ogmUsername": "caroline.amorim",
+        "roleCustom": "Supervisor",
+        "area": "Seguro Novo",
+        "equipe": "Supervisores Vendas"
+      }
+    },
+    {
+      "FriendlyName": "caroline.marques@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "caroline.marques@minutoseguros.com.br",
+        "ogmUsername": "caroline.marques",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Administrativo - Pós Vendas"
+      }
+    },
+    {
+      "FriendlyName": "cida.saboia@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "cida.saboia@minutoseguros.com.br",
+        "ogmUsername": "cida.saboia",
+        "roleCustom": "Agent",
+        "area": "Treinamento",
+        "equipe": "Treinamento"
+      }
+    },
+    {
+      "FriendlyName": "cindy.gomes@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "cindy.gomes@minutoseguros.com.br",
+        "ogmUsername": "cindy.gomes",
+        "roleCustom": "Treinamento",
+        "area": "Seguro Novo",
+        "equipe": "Guilherme Pimentel"
+      }
+    },
+    {
+      "FriendlyName": "cinthia.batista@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "cinthia.batista@minutoseguros.com.br",
+        "ogmUsername": "cinthia.batista",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Adriano Cadenazzi"
+      }
+    },
+    {
+      "FriendlyName": "claudia.sousa@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "claudia.sousa@minutoseguros.com.br",
+        "ogmUsername": "claudia.sousa",
+        "roleCustom": "Central",
+        "area": "Central",
+        "equipe": "Central - Telefone"
+      }
+    },
+    {
+      "FriendlyName": "claudia.alves@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "claudia.alves@minutoseguros.com.br",
+        "ogmUsername": "claudia.alves",
+        "roleCustom": "Central",
+        "area": "Central",
+        "equipe": "Central - Telefone"
+      }
+    },
+    {
+      "FriendlyName": "claudineia.resende@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "claudineia.resende@minutoseguros.com.br",
+        "ogmUsername": "claudineia.resende",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Devolução de valores - Pós-vendas"
+      }
+    },
+    {
+      "FriendlyName": "clelia.silva@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "clelia.silva@minutoseguros.com.br",
+        "ogmUsername": "clelia.silva",
+        "roleCustom": "Central",
+        "area": "Seguro Novo",
+        "equipe": "Projeto Porto Seguros"
+      }
+    },
+    {
+      "FriendlyName": "clodoaldo.francisco@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "clodoaldo.francisco@minutoseguros.com.br",
+        "ogmUsername": "clodoaldo.francisco",
+        "roleCustom": "Agent",
+        "area": "Pós-vendas",
+        "equipe": "Administrativo - Pós Vendas"
+      }
+    },
+    {
+      "FriendlyName": "cristiane.borges@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "cristiane.borges@minutoseguros.com.br",
+        "ogmUsername": "cristiane.borges",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Margareth Tumbert"
+      }
+    },
+    {
+      "FriendlyName": "cynthia.nascimento@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "cynthia.nascimento@minutoseguros.com.br",
+        "ogmUsername": "cynthia.nascimento",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Guilherme Pimentel"
+      }
+    },
+    {
+      "FriendlyName": "daiana.santana@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "daiana.santana@minutoseguros.com.br",
+        "ogmUsername": "daiana.santana",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Transmissao"
+      }
+    },
+    {
+      "FriendlyName": "daiana.guedes@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "daiana.guedes@minutoseguros.com.br",
+        "ogmUsername": "daiana.guedes",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Transmissao"
+      }
+    },
+    {
+      "FriendlyName": "daiane.mathias@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "daiane.mathias@minutoseguros.com.br",
+        "ogmUsername": "daiane.mathias",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Diego Andreoli"
+      }
+    },
+    {
+      "FriendlyName": "daisy.gozzi@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor, wfo.quality_manager" ],
+        "emailMinuto": "daisy.gozzi@minutoseguros.com.br",
+        "ogmUsername": "daisy.gozzi",
+        "roleCustom": "Supervisor",
+        "area": "RE & Beneficios",
+        "equipe": "Supervisão Demais Ramos"
+      }
+    },
+    {
+      "FriendlyName": "dalila.calheira@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "dalila.calheira@minutoseguros.com.br",
+        "ogmUsername": "dalila.calheira",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Pendencia e Emissão - Pós Vendas"
+      }
+    },
+    {
+      "FriendlyName": "daniele.sousa@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "daniele.sousa@minutoseguros.com.br",
+        "ogmUsername": "daniele.sousa",
+        "roleCustom": "Agent",
+        "area": "Pós-vendas",
+        "equipe": "Transmissao"
+      }
+    },
+    {
+      "FriendlyName": "daniele.silva@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "daniele.silva@minutoseguros.com.br",
+        "ogmUsername": "daniele.silva",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Margareth Tumbert"
+      }
+    },
+    {
+      "FriendlyName": "daniele.sartori@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "daniele.sartori@minutoseguros.com.br",
+        "ogmUsername": "daniele.sartori",
+        "roleCustom": "Agent",
+        "area": "RE & Beneficios",
+        "equipe": "Ramos Elementares - Venda"
+      }
+    },
+    {
+      "FriendlyName": "daniele.locatelli@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "daniele.locatelli@minutoseguros.com.br",
+        "ogmUsername": "daniele.locatelli",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Erick Ishiy"
+      }
+    },
+    {
+      "FriendlyName": "daniele.santos@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "daniele.santos@minutoseguros.com.br",
+        "ogmUsername": "daniele.santos",
+        "roleCustom": "Central",
+        "area": "Central",
+        "equipe": "Central - Telefone"
+      }
+    },
+    {
+      "FriendlyName": "danielle.aparecida@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "danielle.aparecida@minutoseguros.com.br",
+        "ogmUsername": "danielle.aparecida",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Roberta Kikuchi"
+      }
+    },
+    {
+      "FriendlyName": "dayara.silva@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "dayara.silva@minutoseguros.com.br",
+        "ogmUsername": "dayara.silva",
+        "roleCustom": "Central",
+        "area": "Central",
+        "equipe": "Central - Telefone"
+      }
+    },
+    {
+      "FriendlyName": "debora.maciel@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "debora.maciel@minutoseguros.com.br",
+        "ogmUsername": "debora.maciel",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Roberta Kikuchi"
+      }
+    },
+    {
+      "FriendlyName": "denize.soares@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor, wfo.quality_manager" ],
+        "emailMinuto": "denize.soares@minutoseguros.com.br",
+        "ogmUsername": "denize.soares",
+        "roleCustom": "Supervisor",
+        "area": "Planejamento",
+        "equipe": "Equipe Planejamento"
+      }
+    },
+    {
+      "FriendlyName": "diego.lemos@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "diego.lemos@minutoseguros.com.br",
+        "ogmUsername": "diego.lemos",
+        "roleCustom": "Central",
+        "area": "Central",
+        "equipe": "Central - Chat"
+      }
+    },
+    {
+      "FriendlyName": "diego.andreolli@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor, wfo.quality_manager" ],
+        "emailMinuto": "diego.andreolli@minutoseguros.com.br",
+        "ogmUsername": "diego.andreolli",
+        "roleCustom": "Supervisor",
+        "area": "Seguro Novo",
+        "equipe": "Supervisores Vendas"
+      }
+    },
+    {
+      "FriendlyName": "diogo.santos@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "diogo.santos@minutoseguros.com.br",
+        "ogmUsername": "diogo.santos",
+        "roleCustom": "Agent",
+        "area": "RE & Beneficios",
+        "equipe": "Ramos Elementares - Venda"
+      }
+    },
+    {
+      "FriendlyName": "edileuza.sena@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "edileuza.sena2@minutoseguros.com.br",
+        "ogmUsername": "edileuza.sena2",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Wallace Nascimento"
+      }
+    },
+    {
+      "FriendlyName": "eduardo.mattos@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "eduardo.mattos@minutoseguros.com.br",
+        "ogmUsername": "eduardo.mattos",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Erick Ishiy"
+      }
+    },
+    {
+      "FriendlyName": "eduardo.villegas@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor, wfo.quality_manager" ],
+        "emailMinuto": "eduardo.villegas@minutoseguros.com.br",
+        "ogmUsername": "eduardo.villegas",
+        "roleCustom": "Supervisor",
+        "area": "Pós-vendas",
+        "equipe": "Administrativo - Pós Vendas"
+      }
+    },
+    {
+      "FriendlyName": "elaine.oliveira1@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "elaine.oliveira@minutoseguros.com.br",
+        "ogmUsername": "elaine.oliveira",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Guilherme Pimentel"
+      }
+    },
+    {
+      "FriendlyName": "elaine.lima@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "elaine.lima@minutoseguros.com.br",
+        "ogmUsername": "elaine.lima",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Sinistro - Pós-vendas"
+      }
+    },
+    {
+      "FriendlyName": "elida.guinas@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "elida.guinas@minutoseguros.com.br",
+        "ogmUsername": "elida.guinas",
+        "roleCustom": "Central",
+        "area": "Fidelização",
+        "equipe": "Pre Renovacao"
+      }
+    },
+    {
+      "FriendlyName": "eliene.melo@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "eliene.melo@minutoseguros.com.br",
+        "ogmUsername": "eliene.melo",
+        "roleCustom": "Central",
+        "area": "Central",
+        "equipe": "Central - Telefone"
+      }
+    },
+    {
+      "FriendlyName": "elisama.santos@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "elisama.santos@minutoseguros.com.br",
+        "ogmUsername": "elisama.santos",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Pagamento - Pós Vendas"
+      }
+    },
+    {
+      "FriendlyName": "emerson.oliveira@creditas.com",
+      "Attributes": {
+        "roles": [ "admin,wfo.full_access" ],
+        "emailMinuto": "emerson.oliveira@minutoseguros.com.br",
+        "ogmUsername": "emerson.oliveira",
+        "roleCustom": "Admin",
+        "area": "TI",
+        "equipe": "Infraestrutura"
+      }
+    },
+    {
+      "FriendlyName": "emerson.santos@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "emerson.santos@minutoseguros.com.br",
+        "ogmUsername": "emerson.santos",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Administrativo - Pós Vendas"
+      }
+    },
+    {
+      "FriendlyName": "eric.lima@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "eric.lima@minutoseguros.com.br",
+        "ogmUsername": "eric.lima",
+        "roleCustom": "Treinamento",
+        "area": "Fidelização",
+        "equipe": "Margareth Tumbert"
+      }
+    },
+    {
+      "FriendlyName": "erick.ishiy@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor, wfo.quality_manager" ],
+        "emailMinuto": "erick.ishiy@minutoseguros.com.br",
+        "ogmUsername": "erick.ishiy",
+        "roleCustom": "Supervisor",
+        "area": "Seguro Novo",
+        "equipe": "Supervisores Vendas"
+      }
+    },
+    {
+      "FriendlyName": "estevao.garcia@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "estevao.garcia@minutoseguros.com.br",
+        "ogmUsername": "estevao.garcia",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Valeria Gonçalves"
+      }
+    },
+    {
+      "FriendlyName": "everton.miranda@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "everton.miranda@minutoseguros.com.br",
+        "ogmUsername": "everton.miranda",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Sinistro - Pós-vendas"
+      }
+    },
+    {
+      "FriendlyName": "fabiana.lemos@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "fabiana.lemos@minutoseguros.com.br",
+        "ogmUsername": "fabiana.lemos",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Sinistro - Pós-vendas"
+      }
+    },
+    {
+      "FriendlyName": "fabiana.galvao@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "fabiana.galvao@minutoseguros.com.br",
+        "ogmUsername": "fabiana.galvao",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Adriano Cadenazzi"
+      }
+    },
+    {
+      "FriendlyName": "fabio.melo@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "fabio.melo@minutoseguros.com.br",
+        "ogmUsername": "fabio.melo",
+        "roleCustom": "Central",
+        "area": "Central",
+        "equipe": "Central - Telefone"
+      }
+    },
+    {
+      "FriendlyName": "fabio.sapatini@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "fabio.sapatini@minutoseguros.com.br",
+        "ogmUsername": "fabio.sapatini",
+        "roleCustom": "Treinamento",
+        "area": "Fidelização",
+        "equipe": "Margareth Tumbert"
+      }
+    },
+    {
+      "FriendlyName": "fabio.barbosa@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "fabio.barbosa@minutoseguros.com.br",
+        "ogmUsername": "fabio.barbosa",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Sinistro - Pós-vendas"
+      }
+    },
+    {
+      "FriendlyName": "fabio.botignon@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "fabio.botignon@minutoseguros.com.br",
+        "ogmUsername": "fabio.botignon",
+        "roleCustom": "Agent",
+        "area": "Treinamento",
+        "equipe": "Treinamento"
+      }
+    },
+    {
+      "FriendlyName": "fabiola.ferreira@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "fabiola.ferreira@minutoseguros.com.br",
+        "ogmUsername": "fabiola.ferreira",
+        "roleCustom": "Agent",
+        "area": "RE & Beneficios",
+        "equipe": "Ramos Elementares - Venda"
+      }
+    },
+    {
+      "FriendlyName": "felipe.araujo@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "felipe.araujo@minutoseguros.com.br",
+        "ogmUsername": "felipe.araujo",
+        "roleCustom": "Central",
+        "area": "Fidelização",
+        "equipe": "Pre Renovacao"
+      }
+    },
+    {
+      "FriendlyName": "felipe.chicarelli@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "felipe.chicarelli@minutoseguros.com.br",
+        "ogmUsername": "felipe.chicarelli",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Adriano Cadenazzi"
+      }
+    },
+    {
+      "FriendlyName": "fernanda.pires@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor, wfo.quality_manager" ],
+        "emailMinuto": "fernanda.pires@minutoseguros.com.br",
+        "ogmUsername": "fernanda.pires",
+        "roleCustom": "Supervisor",
+        "area": "Seguro Novo",
+        "equipe": "Supervisores Vendas"
+      }
+    },
+    {
+      "FriendlyName": "fernanda.motta1@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor, wfo.quality_manager" ],
+        "emailMinuto": "fernanda.motta@minutoseguros.com.br",
+        "ogmUsername": "fernanda.motta",
+        "roleCustom": "Supervisor",
+        "area": "Treinamento",
+        "equipe": "Processos (Treinamento)"
+      }
+    },
+    {
+      "FriendlyName": "fernanda.pinheiro@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "fernanda.pinheiro@minutoseguros.com.br",
+        "ogmUsername": "fernanda.pinheiro",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Transmissao"
+      }
+    },
+    {
+      "FriendlyName": "fernando.aparecido@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "fernando.aparecido@minutoseguros.com.br",
+        "ogmUsername": "fernando.aparecido",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Diego Andreoli"
+      }
+    },
+    {
+      "FriendlyName": "flavia.vieira@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "flavia.vieira@minutoseguros.com.br",
+        "ogmUsername": "flavia.vieira",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Caroline Amorim"
+      }
+    },
+    {
+      "FriendlyName": "francielle.teixeira@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "francielle.teixeira@minutoseguros.com.br",
+        "ogmUsername": "francielle.teixeira",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Administrativo - Pós Vendas"
+      }
+    },
+    {
+      "FriendlyName": "francielli.furlan@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "francielli.furlan@minutoseguros.com.br",
+        "ogmUsername": "francielli.furlan",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Caroline Amorim"
+      }
+    },
+    {
+      "FriendlyName": "gabriel.andrade1@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "gabriel.andrade2@minutoseguros.com.br",
+        "ogmUsername": "gabriel.andrade2",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Diego Andreoli"
+      }
+    },
+    {
+      "FriendlyName": "gabriel.felix@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "gabriel.felix@minutoseguros.com.br",
+        "ogmUsername": "gabriel.felix",
+        "roleCustom": "Agent",
+        "area": "RE & Beneficios",
+        "equipe": "Ramos Elementares - Pós venda"
+      }
+    },
+    {
+      "FriendlyName": "gabriel.sena@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "gabriel.sena@minutoseguros.com.br",
+        "ogmUsername": "gabriel.sena",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Administrativo - Pós Vendas"
+      }
+    },
+    {
+      "FriendlyName": "gabriel.bom@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "gabriel.bom@minutoseguros.com.br",
+        "ogmUsername": "gabriel.bom",
+        "roleCustom": "Treinamento",
+        "area": "Seguro Novo",
+        "equipe": "Fernanda Pires"
+      }
+    },
+    {
+      "FriendlyName": "gabriela.silva@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "gabriela.silva@minutoseguros.com.br",
+        "ogmUsername": "gabriela.silva",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Wallace Nascimento"
+      }
+    },
+    {
+      "FriendlyName": "gabriela.bento@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "gabriela.bento@minutoseguros.com.br",
+        "ogmUsername": "gabriela.bento",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Transmissao"
+      }
+    },
+    {
+      "FriendlyName": "gabriela.amaral@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "gabriela.amaral@minutoseguros.com.br",
+        "ogmUsername": "gabriela.amaral",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Administrativo - Pós Vendas"
+      }
+    },
+    {
+      "FriendlyName": "gabriela.ribeiro@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor, wfo.quality_manager" ],
+        "emailMinuto": "gabriela.ribeiro@minutoseguros.com.br",
+        "ogmUsername": "gabriela.ribeiro",
+        "roleCustom": "Supervisor",
+        "area": "RE & Beneficios",
+        "equipe": "Supervisão Demais Ramos"
+      }
+    },
+    {
+      "FriendlyName": "gabriele.santos1@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "gabriele.santos@minutoseguros.com.br",
+        "ogmUsername": "gabriele.santos",
+        "roleCustom": "Central",
+        "area": "Central",
+        "equipe": "Central - Telefone"
+      }
+    },
+    {
+      "FriendlyName": "geovani.santos@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "geovani.santos@minutoseguros.com.br",
+        "ogmUsername": "geovani.santos",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Adriano Cadenazzi"
+      }
+    },
+    {
+      "FriendlyName": "geovanna.fontaine@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "geovanna.fontaine@minutoseguros.com.br",
+        "ogmUsername": "geovanna.fontaine",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Endosso - Pós-vendas"
+      }
+    },
+    {
+      "FriendlyName": "giovana.silva@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "giovana.silva@minutoseguros.com.br",
+        "ogmUsername": "giovana.silva",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Margareth Tumbert"
+      }
+    },
+    {
+      "FriendlyName": "giovanna.luiz@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "giovanna.luiz@minutoseguros.com.br",
+        "ogmUsername": "giovanna.luiz",
+        "roleCustom": "Treinamento",
+        "area": "RE & Beneficios",
+        "equipe": "Benefícios - Vendas"
+      }
+    },
+    {
+      "FriendlyName": "giovanna.veiga@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "giovanna.veiga@minutoseguros.com.br",
+        "ogmUsername": "giovanna.veiga",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Transmissao"
+      }
+    },
+    {
+      "FriendlyName": "gisele.heleno@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "gisele.heleno@minutoseguros.com.br",
+        "ogmUsername": "gisele.heleno",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Guilherme Pimentel"
+      }
+    },
+    {
+      "FriendlyName": "gislene.santos@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "gislene.santos@minutoseguros.com.br",
+        "ogmUsername": "gislene.santos",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Transmissao"
+      }
+    },
+    {
+      "FriendlyName": "gizele.areias@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "gizele.areias@minutoseguros.com.br",
+        "ogmUsername": "gizele.areias",
+        "roleCustom": "Central",
+        "area": "Central",
+        "equipe": "Central - Telefone"
+      }
+    },
+    {
+      "FriendlyName": "glaucia.almeida@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "glaucia.almeida@minutoseguros.com.br",
+        "ogmUsername": "glaucia.almeida",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Fernanda Pires"
+      }
+    },
+    {
+      "FriendlyName": "gleice.ferreira@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "gleice.ferreira@minutoseguros.com.br",
+        "ogmUsername": "gleice.ferreira",
+        "roleCustom": "Agent",
+        "area": "Pós-vendas",
+        "equipe": "Administrativo - Pós Vendas"
+      }
+    },
+    {
+      "FriendlyName": "gleiciane.andrade@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "gleiciane.andrade@minutoseguros.com.br",
+        "ogmUsername": "gleiciane.andrade",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Roberta Kikuchi"
+      }
+    },
+    {
+      "FriendlyName": "grace.santos@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "grace.santos@minutoseguros.com.br",
+        "ogmUsername": "grace.santos",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Caroline Amorim"
+      }
+    },
+    {
+      "FriendlyName": "guilherme.pimentel@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor, wfo.quality_manager" ],
+        "emailMinuto": "guilherme.pimentel@minutoseguros.com.br",
+        "ogmUsername": "guilherme.pimentel",
+        "roleCustom": "Supervisor",
+        "area": "Seguro Novo",
+        "equipe": "Supervisores Vendas"
+      }
+    },
+    {
+      "FriendlyName": "guilherme.santos1@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "guilherme.santos@minutoseguros.com.br",
+        "ogmUsername": "guilherme.santos",
+        "roleCustom": "Agent",
+        "area": "RE & Beneficios",
+        "equipe": "Benefícios - Pós Venda"
+      }
+    },
+    {
+      "FriendlyName": "guilherme.matias@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "guilherme.matias@minutoseguros.com.br",
+        "ogmUsername": "guilherme.matias",
+        "roleCustom": "Central",
+        "area": "Central",
+        "equipe": "Central - Telefone"
+      }
+    },
+    {
+      "FriendlyName": "guilherme.cavalcante@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "guilherme.cavalcante@minutoseguros.com.br",
+        "ogmUsername": "guilherme.cavalcante",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Pendencia e Emissão - Pós Vendas"
+      }
+    },
+    {
+      "FriendlyName": "guilherme.nascimento@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "guilherme.nascimento@minutoseguros.com.br",
+        "ogmUsername": "guilherme.nascimento",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Administrativo - Pós Vendas"
+      }
+    },
+    {
+      "FriendlyName": "gustavo.miranda@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "gustavo.miranda@minutoseguros.com.br",
+        "ogmUsername": "gustavo.miranda",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Endosso - Pós-vendas"
+      }
+    },
+    {
+      "FriendlyName": "gustavo.nogueira@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "gustavo.nogueira@minutoseguros.com.br",
+        "ogmUsername": "gustavo.nogueira",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Adriano Cadenazzi"
+      }
+    },
+    {
+      "FriendlyName": "helen.brito@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "helen.brito@minutoseguros.com.br",
+        "ogmUsername": "helen.brito",
+        "roleCustom": "Treinamento",
+        "area": "Treinamento",
+        "equipe": "Treinamento"
+      }
+    },
+    {
+      "FriendlyName": "heloiza.vasconcelos@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "heloiza.vasconcelos@minutoseguros.com.br",
+        "ogmUsername": "heloiza.vasconcelos",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Diego Andreoli"
+      }
+    },
+    {
+      "FriendlyName": "henrique.mota@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "henrique.mota@minutoseguros.com.br",
+        "ogmUsername": "henrique.mota",
+        "roleCustom": "Treinamento",
+        "area": "Seguro Novo",
+        "equipe": "Caroline Amorim"
+      }
+    },
+    {
+      "FriendlyName": "henrique.santos1@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "henrique.santos@minutoseguros.com.br",
+        "ogmUsername": "henrique.santos",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Administrativo - Pós Vendas"
+      }
+    },
+    {
+      "FriendlyName": "igor.fernandes@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "igor.fernandes@minutoseguros.com.br",
+        "ogmUsername": "igor.fernandes",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Devolução de valores - Pós-vendas"
+      }
+    },
+    {
+      "FriendlyName": "isabel.neta@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "isabel.neta@minutoseguros.com.br",
+        "ogmUsername": "isabel.neta",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Valeria Gonçalves"
+      }
+    },
+    {
+      "FriendlyName": "isabela.jesus@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "isabela.jesus@minutoseguros.com.br",
+        "ogmUsername": "isabela.jesus",
+        "roleCustom": "Central",
+        "area": "Fidelização",
+        "equipe": "Facilitador FA"
+      }
+    },
+    {
+      "FriendlyName": "isabela.nogueira@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "isabela.nogueira@minutoseguros.com.br",
+        "ogmUsername": "isabela.nogueira",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Margareth Tumbert"
+      }
+    },
+    {
+      "FriendlyName": "izabela.batista@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "izabela.batista@minutoseguros.com.br",
+        "ogmUsername": "izabela.batista",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Adriano Cadenazzi"
+      }
+    },
+    {
+      "FriendlyName": "jackson.silva@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "jackson.silva2@minutoseguros.com.br",
+        "ogmUsername": "jackson.silva2",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Margareth Tumbert"
+      }
+    },
+    {
+      "FriendlyName": "jaqueline.rocha@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor, wfo.quality_manager" ],
+        "emailMinuto": "jaqueline.rocha@minutoseguros.com.br",
+        "ogmUsername": "jaqueline.rocha",
+        "roleCustom": "Supervisor",
+        "area": "Pós-vendas",
+        "equipe": "Lideres Pos Vendas"
+      }
+    },
+    {
+      "FriendlyName": "jaqueline.pereira@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "jaqueline.pereira@minutoseguros.com.br",
+        "ogmUsername": "jaqueline.pereira",
+        "roleCustom": "Central",
+        "area": "Fidelização",
+        "equipe": "Facilitador FA"
+      }
+    },
+    {
+      "FriendlyName": "jaqueline.mirasol@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "jaqueline.mirasol@minutoseguros.com.br",
+        "ogmUsername": "jaqueline.mirasol",
+        "roleCustom": "Treinamento",
+        "area": "Pós-vendas",
+        "equipe": "Endosso - Pós-vendas"
+      }
+    },
+    {
+      "FriendlyName": "jaqueline.nascimento@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "jaqueline.nascimento@minutoseguros.com.br",
+        "ogmUsername": "jaqueline.nascimento",
+        "roleCustom": "Central",
+        "area": "Central",
+        "equipe": "Central - Telefone"
+      }
+    },
+    {
+      "FriendlyName": "jaqueline.lacerda@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "jaqueline.lacerda@minutoseguros.com.br",
+        "ogmUsername": "jaqueline.lacerda",
+        "roleCustom": "Treinamento",
+        "area": "Seguro Novo",
+        "equipe": "Valeria Gonçalves"
+      }
+    },
+    {
+      "FriendlyName": "jessica.amorim@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor, wfo.quality_manager" ],
+        "emailMinuto": "jessica.amorim@minutoseguros.com.br",
+        "ogmUsername": "jessica.amorim",
+        "roleCustom": "Supervisor",
+        "area": "Pós-vendas",
+        "equipe": "Lideres Pos Vendas"
+      }
+    },
+    {
+      "FriendlyName": "jessica.campos@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "jessica.campos@minutoseguros.com.br",
+        "ogmUsername": "jessica.campos",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Endosso - Pós-vendas"
+      }
+    },
+    {
+      "FriendlyName": "jessica.barbosa@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "jessica.barbosa@minutoseguros.com.br",
+        "ogmUsername": "jessica.barbosa",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Adriano Cadenazzi"
+      }
+    },
+    {
+      "FriendlyName": "jhonatha.guimaraes@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "jhonatha.guimaraes@minutoseguros.com.br",
+        "ogmUsername": "jhonatha.guimaraes",
+        "roleCustom": "Central",
+        "area": "Central",
+        "equipe": "Central - Telefone"
+      }
+    },
+    {
+      "FriendlyName": "joao.junior@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "joao.junior@minutoseguros.com.br",
+        "ogmUsername": "joao.junior",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Caroline Amorim"
+      }
+    },
+    {
+      "FriendlyName": "joao.fernandes@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "joao.fernandes@minutoseguros.com.br",
+        "ogmUsername": "joao.fernandes",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Administrativo - Pós Vendas"
+      }
+    },
+    {
+      "FriendlyName": "jociane.souza@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "jociane.souza@minutoseguros.com.br",
+        "ogmUsername": "jociane.souza",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Endosso - Pós-vendas"
+      }
+    },
+    {
+      "FriendlyName": "jordan.camargo@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "jordan.camargo@minutoseguros.com.br",
+        "ogmUsername": "jordan.camargo",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Erick Ishiy"
+      }
+    },
+    {
+      "FriendlyName": "josiane.tavares@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor, wfo.quality_manager" ],
+        "emailMinuto": "josiane.tavares@minutoseguros.com.br",
+        "ogmUsername": "josiane.tavares",
+        "roleCustom": "Supervisor",
+        "area": "SAC",
+        "equipe": "SAC"
+      }
+    },
+    {
+      "FriendlyName": "joyce.aparecida@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor, wfo.quality_manager" ],
+        "emailMinuto": "joyce.aparecida@minutoseguros.com.br",
+        "ogmUsername": "joyce.aparecida",
+        "roleCustom": "Supervisor",
+        "area": "SAC",
+        "equipe": "SAC"
+      }
+    },
+    {
+      "FriendlyName": "joyce.nascimento1@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "joyce.nascimento@minutoseguros.com.br",
+        "ogmUsername": "joyce.nascimento",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Roberta Kikuchi"
+      }
+    },
+    {
+      "FriendlyName": "julia.perez@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "julia.perez@minutoseguros.com.br",
+        "ogmUsername": "julia.perez",
+        "roleCustom": "Agent",
+        "area": "Treinamento",
+        "equipe": "Treinamento"
+      }
+    },
+    {
+      "FriendlyName": "juliana.guimaraes@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "juliana.guimaraes@minutoseguros.com.br",
+        "ogmUsername": "juliana.guimaraes",
+        "roleCustom": "Treinamento",
+        "area": "Seguro Novo",
+        "equipe": "Caroline Amorim"
+      }
+    },
+    {
+      "FriendlyName": "juliana.aparecida@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "juliana.aparecida@minutoseguros.com.br",
+        "ogmUsername": "juliana.aparecida",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Pendencia e Emissão - Pós Vendas"
+      }
+    },
+    {
+      "FriendlyName": "juliane.noronha@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor,wfo.full_access" ],
+        "emailMinuto": "juliane.noronha@minutoseguros.com.br",
+        "ogmUsername": "juliane.noronha",
+        "roleCustom": "Relatórios",
+        "area": "RH",
+        "equipe": "RH"
+      }
+    },
+    {
+      "FriendlyName": "juscilene.nascimento@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "juscilene.nascimento@minutoseguros.com.br",
+        "ogmUsername": "juscilene.nascimento",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Guilherme Pimentel"
+      }
+    },
+    {
+      "FriendlyName": "jussara.ambrozio@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "jussara.ambrozio@minutoseguros.com.br",
+        "ogmUsername": "jussara.ambrozio",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Adriano Cadenazzi"
+      }
+    },
+    {
+      "FriendlyName": "kailane.silva@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "kailane.silva@minutoseguros.com.br",
+        "ogmUsername": "kailane.silva",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Administrativo - Pós Vendas"
+      }
+    },
+    {
+      "FriendlyName": "karen.calderon@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "karen.calderon@minutoseguros.com.br",
+        "ogmUsername": "karen.calderon",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Margareth Tumbert"
+      }
+    },
+    {
+      "FriendlyName": "karina.bolduan@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "karina.bolduan@minutoseguros.com.br",
+        "ogmUsername": "karina.bolduan",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Caroline Amorim"
+      }
+    },
+    {
+      "FriendlyName": "kathleen.ferreira@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "kathleen.ferreira@minutoseguros.com.br",
+        "ogmUsername": "kathleen.ferreira",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Roberta Kikuchi"
+      }
+    },
+    {
+      "FriendlyName": "kauany.santos@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "kauany.santos@minutoseguros.com.br",
+        "ogmUsername": "kauany.santos",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Pendencia e Emissão - Pós Vendas"
+      }
+    },
+    {
+      "FriendlyName": "keithy.jesus@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "keithy.jesus@minutoseguros.com.br",
+        "ogmUsername": "keithy.jesus",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Margareth Tumbert"
+      }
+    },
+    {
+      "FriendlyName": "ketlyn.miranda@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "ketlyn.miranda@minutoseguros.com.br",
+        "ogmUsername": "ketlyn.miranda",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Administrativo - Pós Vendas"
+      }
+    },
+    {
+      "FriendlyName": "kevelyn.sampaio@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "kevelyn.sampaio@minutoseguros.com.br",
+        "ogmUsername": "kevelyn.sampaio",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Margareth Tumbert"
+      }
+    },
+    {
+      "FriendlyName": "larissa.rocha1@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "larissa.rocha@minutoseguros.com.br",
+        "ogmUsername": "larissa.rocha",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Pagamento - Pós Vendas"
+      }
+    },
+    {
+      "FriendlyName": "larissa.souza@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "larissa.souza@minutoseguros.com.br",
+        "ogmUsername": "larissa.souza",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Administrativo - Pós Vendas"
+      }
+    },
+    {
+      "FriendlyName": "larissa.galvao@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "larissa.galvao@minutoseguros.com.br",
+        "ogmUsername": "larissa.galvao",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Endosso - Pós-vendas"
+      }
+    },
+    {
+      "FriendlyName": "laryssa.santana@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "laryssa.santana@minutoseguros.com.br",
+        "ogmUsername": "laryssa.santana",
+        "roleCustom": "Agent",
+        "area": "RE & Beneficios",
+        "equipe": "Ramos Elementares - Pós venda"
+      }
+    },
+    {
+      "FriendlyName": "laysa.conti@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "laysa.conti@minutoseguros.com.br",
+        "ogmUsername": "laysa.conti",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Projeto Porto Seguros"
+      }
+    },
+    {
+      "FriendlyName": "leandro.silva3@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "leandro.silva@minutoseguros.com.br",
+        "ogmUsername": "leandro.silva",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Adriano Cadenazzi"
+      }
+    },
+    {
+      "FriendlyName": "leia.silva@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor, wfo.quality_manager" ],
+        "emailMinuto": "leia.silva@minutoseguros.com.br",
+        "ogmUsername": "leia.silva",
+        "roleCustom": "Supervisor",
+        "area": "SAC",
+        "equipe": "SAC"
+      }
+    },
+    {
+      "FriendlyName": "liandra.queiroz@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "liandra.queiroz@minutoseguros.com.br",
+        "ogmUsername": "liandra.queiroz",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Transmissao"
+      }
+    },
+    {
+      "FriendlyName": "ligia.livramento@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "ligia.livramento@minutoseguros.com.br",
+        "ogmUsername": "ligia.livramento",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Wallace Nascimento"
+      }
+    },
+    {
+      "FriendlyName": "lilian.almeida@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "lilian.almeida@minutoseguros.com.br",
+        "ogmUsername": "lilian.almeida",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Roberta Kikuchi"
+      }
+    },
+    {
+      "FriendlyName": "lituany.fernandes@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "lituany.fernandes@minutoseguros.com.br",
+        "ogmUsername": "lituany.fernandes",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Margareth Tumbert"
+      }
+    },
+    {
+      "FriendlyName": "luana.silva@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "luana.silva@minutoseguros.com.br",
+        "ogmUsername": "luana.silva",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Projeto Porto Seguros"
+      }
+    },
+    {
+      "FriendlyName": "luana.martins@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "luana.martins@minutoseguros.com.br",
+        "ogmUsername": "luana.martins",
+        "roleCustom": "Central",
+        "area": "Central",
+        "equipe": "Central - Telefone"
+      }
+    },
+    {
+      "FriendlyName": "lucas.ribeiro@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "lucas.ribeiro@minutoseguros.com.br",
+        "ogmUsername": "lucas.ribeiro",
+        "roleCustom": "Treinamento",
+        "area": "Fidelização",
+        "equipe": "Margareth Tumbert"
+      }
+    },
+    {
+      "FriendlyName": "lucas.magalhaes@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "lucas.magalhaes@minutoseguros.com.br",
+        "ogmUsername": "lucas.magalhaes",
+        "roleCustom": "Central",
+        "area": "Central",
+        "equipe": "Central - Telefone"
+      }
+    },
+    {
+      "FriendlyName": "lucas.paixao@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "lucas.paixao@minutoseguros.com.br",
+        "ogmUsername": "lucas.paixao",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Administrativo - Pós Vendas"
+      }
+    },
+    {
+      "FriendlyName": "lucas.lombardi@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "lucas.lombardi@minutoseguros.com.br",
+        "ogmUsername": "lucas.lombardi",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Transmissao"
+      }
+    },
+    {
+      "FriendlyName": "lucas.nogueira2@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "lucas.nogueira1@minutoseguros.com.br",
+        "ogmUsername": "lucas.nogueira1",
+        "roleCustom": "Treinamento",
+        "area": "Seguro Novo",
+        "equipe": "Guilherme Pimentel"
+      }
+    },
+    {
+      "FriendlyName": "lucas.elber@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "lucas.elber@minutoseguros.com.br",
+        "ogmUsername": "lucas.elber",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Administrativo - Pós Vendas"
+      }
+    },
+    {
+      "FriendlyName": "lucia.gobbo@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "lucia.gobbo@minutoseguros.com.br",
+        "ogmUsername": "lucia.gobbo",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Guilherme Pimentel"
+      }
+    },
+    {
+      "FriendlyName": "luciana.martins1@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "luciana.martins@minutoseguros.com.br",
+        "ogmUsername": "luciana.martins",
+        "roleCustom": "Treinamento",
+        "area": "Seguro Novo",
+        "equipe": "Valeria Gonçalves"
+      }
+    },
+    {
+      "FriendlyName": "luciano.silva@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor, wfo.quality_manager" ],
+        "emailMinuto": "luciano.silva@minutoseguros.com.br",
+        "ogmUsername": "luciano.silva",
+        "roleCustom": "Supervisor",
+        "area": "Planejamento",
+        "equipe": "Equipe Planejamento"
+      }
+    },
+    {
+      "FriendlyName": "luciano.azevedo@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor, wfo.quality_manager" ],
+        "emailMinuto": "luciano.azevedo@minutoseguros.com.br",
+        "ogmUsername": "luciano.azevedo",
+        "roleCustom": "Supervisor",
+        "area": "Pós-vendas",
+        "equipe": "Lideres Pos Vendas"
+      }
+    },
+    {
+      "FriendlyName": "luciene.almeida@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "luciene.almeida@minutoseguros.com.br",
+        "ogmUsername": "luciene.almeida",
+        "roleCustom": "Central",
+        "area": "Central",
+        "equipe": "Central - Telefone"
+      }
+    },
+    {
+      "FriendlyName": "luciene.matos@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "luciene.matos@minutoseguros.com.br",
+        "ogmUsername": "luciene.matos",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Erick Ishiy"
+      }
+    },
+    {
+      "FriendlyName": "lucy.oliveira@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "lucy.oliveira@minutoseguros.com.br",
+        "ogmUsername": "lucy.oliveira",
+        "roleCustom": "Central",
+        "area": "Fidelização",
+        "equipe": "Pre Renovacao"
+      }
+    },
+    {
+      "FriendlyName": "luiz.carlos@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor, wfo.quality_manager" ],
+        "emailMinuto": "luiz.carlos@minutoseguros.com.br",
+        "ogmUsername": "luiz.carlos",
+        "roleCustom": "Supervisor",
+        "area": "Pós-vendas",
+        "equipe": "Administrativo - Pós Vendas"
+      }
+    },
+    {
+      "FriendlyName": "licia.garantizado@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "licia.garantizado@minutoseguros.com.br",
+        "ogmUsername": "licia.garantizado",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Transmissao"
+      }
+    },
+    {
+      "FriendlyName": "marberth.monteiro@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor, wfo.quality_manager" ],
+        "emailMinuto": "marberth.monteiro@minutoseguros.com.br",
+        "ogmUsername": "marberth.monteiro",
+        "roleCustom": "Supervisor",
+        "area": "Treinamento",
+        "equipe": "Processos (Treinamento)"
+      }
+    },
+    {
+      "FriendlyName": "marcelo.queiroz@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "marcelo.queiroz@minutoseguros.com.br",
+        "ogmUsername": "marcelo.queiroz",
+        "roleCustom": "Central",
+        "area": "Fidelização",
+        "equipe": "Facilitador FA"
+      }
+    },
+    {
+      "FriendlyName": "marcia.freitas@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "marcia.freitas@minutoseguros.com.br",
+        "ogmUsername": "marcia.freitas",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Erick Ishiy"
+      }
+    },
+    {
+      "FriendlyName": "marcia.lira@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "marcia.lira@minutoseguros.com.br",
+        "ogmUsername": "marcia.lira",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Roberta Kikuchi"
+      }
+    },
+    {
+      "FriendlyName": "marcos.sena@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "marcos.sena@minutoseguros.com.br",
+        "ogmUsername": "marcos.sena",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Pendencia e Emissão - Pós Vendas"
+      }
+    },
+    {
+      "FriendlyName": "maria.datsch@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "maria.datsch@minutoseguros.com.br",
+        "ogmUsername": "maria.datsch",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Fernanda Pires"
+      }
+    },
+    {
+      "FriendlyName": "maria.aline@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "maria.aline@minutoseguros.com.br",
+        "ogmUsername": "maria.aline",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Roberta Kikuchi"
+      }
+    },
+    {
+      "FriendlyName": "maria.pires@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor, wfo.quality_manager" ],
+        "emailMinuto": "maria.pires@minutoseguros.com.br",
+        "ogmUsername": "maria.pires",
+        "roleCustom": "Supervisor",
+        "area": "Seguro Novo",
+        "equipe": "Supervisores Vendas"
+      }
+    },
+    {
+      "FriendlyName": "maria.begiato@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "maria.begiato@minutoseguros.com.br",
+        "ogmUsername": "maria.begiato",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Fernanda Pires"
+      }
+    },
+    {
+      "FriendlyName": "mariana.costa@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "mariana.costa@minutoseguros.com.br",
+        "ogmUsername": "mariana.costa",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Administrativo - Pós Vendas"
+      }
+    },
+    {
+      "FriendlyName": "mariana.ramos@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "mariana.ramos@minutoseguros.com.br",
+        "ogmUsername": "mariana.ramos",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Transmissao"
+      }
+    },
+    {
+      "FriendlyName": "matheus.morais@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "matheus.morais@minutoseguros.com.br",
+        "ogmUsername": "matheus.morais",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Pendencia e Emissão - Pós Vendas"
+      }
+    },
+    {
+      "FriendlyName": "micael.santos@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "micael.santos@minutoseguros.com.br",
+        "ogmUsername": "micael.santos",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Administrativo - Pós Vendas"
+      }
+    },
+    {
+      "FriendlyName": "michel.tanam@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor, wfo.quality_manager" ],
+        "emailMinuto": "michel.tanam@minutoseguros.com.br",
+        "ogmUsername": "michel.tanam",
+        "roleCustom": "Supervisor",
+        "area": "Seguro Novo",
+        "equipe": "Supervisores Vendas"
+      }
+    },
+    {
+      "FriendlyName": "michele.bispo@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "michele.bispo@minutoseguros.com.br",
+        "ogmUsername": "michele.bispo",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Diego Andreoli"
+      }
+    },
+    {
+      "FriendlyName": "michelli.sousa@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "michelli.sousa@minutoseguros.com.br",
+        "ogmUsername": "michelli.sousa",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Guilherme Pimentel"
+      }
+    },
+    {
+      "FriendlyName": "monica.melo@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor, wfo.quality_manager" ],
+        "emailMinuto": "monica.melo.ext@minutoseguros.com.br",
+        "ogmUsername": "monica.melo.ext",
+        "roleCustom": "Supervisor",
+        "area": "Treinamento",
+        "equipe": "Treinamento"
+      }
+    },
+    {
+      "FriendlyName": "monique.gregorio@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "monique.gregorio@minutoseguros.com.br",
+        "ogmUsername": "monique.gregorio",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Diego Andreoli"
+      }
+    },
+    {
+      "FriendlyName": "morgana.pereira@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "morgana.pereira@minutoseguros.com.br",
+        "ogmUsername": "morgana.pereira",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Transmissao"
+      }
+    },
+    {
+      "FriendlyName": "nadir.novaes@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor, wfo.quality_manager" ],
+        "emailMinuto": "Nadir.Novaes@minutoseguros.com.br",
+        "ogmUsername": "Nadir.Novaes",
+        "roleCustom": "Supervisor",
+        "area": "Seguro Novo",
+        "equipe": "Supervisores Vendas"
+      }
+    },
+    {
+      "FriendlyName": "nadirane.silva@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "nadirane.silva@minutoseguros.com.br",
+        "ogmUsername": "nadirane.silva",
+        "roleCustom": "Central",
+        "area": "Central",
+        "equipe": "Central - Telefone"
+      }
+    },
+    {
+      "FriendlyName": "nadja.silva@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "nadja.silva@minutoseguros.com.br",
+        "ogmUsername": "nadja.silva",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Pagamento - Pós Vendas"
+      }
+    },
+    {
+      "FriendlyName": "naiara.barreto@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "naiara.barreto@minutoseguros.com.br",
+        "ogmUsername": "naiara.barreto",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Adriano Cadenazzi"
+      }
+    },
+    {
+      "FriendlyName": "naiara.pinheiro@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor, wfo.quality_manager" ],
+        "emailMinuto": "naiara.pinheiro@minutoseguros.com.br",
+        "ogmUsername": "naiara.pinheiro",
+        "roleCustom": "Supervisor",
+        "area": "SAC",
+        "equipe": "SAC"
+      }
+    },
+    {
+      "FriendlyName": "naomy.cruz@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "naomy.cruz@minutoseguros.com.br",
+        "ogmUsername": "naomy.cruz",
+        "roleCustom": "Agent",
+        "area": "Treinamento",
+        "equipe": "Treinamento"
+      }
+    },
+    {
+      "FriendlyName": "nathalia.souza@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "nathalia.souza@minutoseguros.com.br",
+        "ogmUsername": "nathalia.souza",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Transmissao"
+      }
+    },
+    {
+      "FriendlyName": "nayara.silva@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "nayara.silva@minutoseguros.com.br",
+        "ogmUsername": "nayara.silva",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Diego Andreoli"
+      }
+    },
+    {
+      "FriendlyName": "paloma.souza@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "paloma.souza@minutoseguros.com.br",
+        "ogmUsername": "paloma.souza",
+        "roleCustom": "Central",
+        "area": "Central",
+        "equipe": "Central - Chat"
+      }
+    },
+    {
+      "FriendlyName": "pamela.alessio@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "pamela.alessio@minutoseguros.com.br",
+        "ogmUsername": "pamela.alessio",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Guilherme Pimentel"
+      }
+    },
+    {
+      "FriendlyName": "patricia.martins@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "patricia.martins@minutoseguros.com.br",
+        "ogmUsername": "patricia.martins",
+        "roleCustom": "Treinamento",
+        "area": "Seguro Novo",
+        "equipe": "Caroline Amorim"
+      }
+    },
+    {
+      "FriendlyName": "patricia.reis@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "patricia.reis@minutoseguros.com.br",
+        "ogmUsername": "patricia.reis",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Erick Ishiy"
+      }
+    },
+    {
+      "FriendlyName": "patricia.araujo@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "patricia.araujo@minutoseguros.com.br",
+        "ogmUsername": "patricia.araujo",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Margareth Tumbert"
+      }
+    },
+    {
+      "FriendlyName": "paula.pereira1@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "paula.pereira@minutoseguros.com.br",
+        "ogmUsername": "paula.pereira",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Transmissao"
+      }
+    },
+    {
+      "FriendlyName": "paula.santos@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor, wfo.quality_manager" ],
+        "emailMinuto": "paula.santos@minutoseguros.com.br",
+        "ogmUsername": "paula.santos",
+        "roleCustom": "Supervisor",
+        "area": "Pós-vendas",
+        "equipe": "Supervisores Pós Vendas"
+      }
+    },
+    {
+      "FriendlyName": "paulo.ormenese@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "paulo.ormenese@minutoseguros.com.br",
+        "ogmUsername": "paulo.ormenese",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Valeria Gonçalves"
+      }
+    },
+    {
+      "FriendlyName": "poliany.amaral@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "poliany.amaral@minutoseguros.com.br",
+        "ogmUsername": "poliany.amaral",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Fernanda Pires"
+      }
+    },
+    {
+      "FriendlyName": "prisciane.oliveira@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "prisciane.oliveira@minutoseguros.com.br",
+        "ogmUsername": "prisciane.oliveira",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Pendencia e Emissão - Pós Vendas"
+      }
+    },
+    {
+      "FriendlyName": "rafaella.braga@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "rafaella.braga@minutoseguros.com.br",
+        "ogmUsername": "rafaella.braga",
+        "roleCustom": "Central",
+        "area": "Central",
+        "equipe": "Central - Telefone"
+      }
+    },
+    {
+      "FriendlyName": "raphaella.santos@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "raphaella.santos@minutoseguros.com.br",
+        "ogmUsername": "raphaella.santos",
+        "roleCustom": "Central",
+        "area": "Central",
+        "equipe": "Central - Telefone"
+      }
+    },
+    {
+      "FriendlyName": "raquel.lima@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "raquel.lima@minutoseguros.com.br",
+        "ogmUsername": "raquel.lima",
+        "roleCustom": "Treinamento",
+        "area": "RE & Beneficios",
+        "equipe": "Benefícios - Pós Venda"
+      }
+    },
+    {
+      "FriendlyName": "raul.freitas@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "raul.freitas@minutoseguros.com.br",
+        "ogmUsername": "raul.freitas",
+        "roleCustom": "Central",
+        "area": "Central",
+        "equipe": "Central - Telefone"
+      }
+    },
+    {
+      "FriendlyName": "rayssa.neri@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "rayssa.neri@minutoseguros.com.br",
+        "ogmUsername": "rayssa.neri",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Margareth Tumbert"
+      }
+    },
+    {
+      "FriendlyName": "rebecca.rossignoli@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "rebecca.rossignoli@minutoseguros.com.br",
+        "ogmUsername": "rebecca.rossignoli",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Administrativo - Pós Vendas"
+      }
+    },
+    {
+      "FriendlyName": "regina.pinheiro@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "regina.pinheiro@minutoseguros.com.br",
+        "ogmUsername": "regina.pinheiro",
+        "roleCustom": "Central",
+        "area": "Central",
+        "equipe": "Central - Telefone"
+      }
+    },
+    {
+      "FriendlyName": "renata.moreira@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor, wfo.quality_manager" ],
+        "emailMinuto": "renata.moreira@minutoseguros.com.br",
+        "ogmUsername": "renata.moreira",
+        "roleCustom": "Supervisor",
+        "area": "Fidelização",
+        "equipe": "Facilitador FA"
+      }
+    },
+    {
+      "FriendlyName": "renata.gomes@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor, wfo.quality_manager" ],
+        "emailMinuto": "renata.gomes@minutoseguros.com.br",
+        "ogmUsername": "renata.gomes",
+        "roleCustom": "Supervisor",
+        "area": "Fidelização",
+        "equipe": "Supervisores Fidelização"
+      }
+    },
+    {
+      "FriendlyName": "renata.martins@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "renata.martins@minutoseguros.com.br",
+        "ogmUsername": "renata.martins",
+        "roleCustom": "Central",
+        "area": "Central",
+        "equipe": "Central - Telefone"
+      }
+    },
+    {
+      "FriendlyName": "renato.tobias@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "renato.tobias@minutoseguros.com.br",
+        "ogmUsername": "renato.tobias",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Diego Andreoli"
+      }
+    },
+    {
+      "FriendlyName": "renato.soares@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "renato.soares@minutoseguros.com.br",
+        "ogmUsername": "renato.soares",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Roberta Kikuchi"
+      }
+    },
+    {
+      "FriendlyName": "renato.nogueira@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "renato.nogueira@minutoseguros.com.br",
+        "ogmUsername": "renato.nogueira",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Margareth Tumbert"
+      }
+    },
+    {
+      "FriendlyName": "ricardo.mendonca@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "ricardo.mendonca@minutoseguros.com.br",
+        "ogmUsername": "ricardo.mendonca",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Diego Andreoli"
+      }
+    },
+    {
+      "FriendlyName": "ricardo.maida@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "ricardo.maida@minutoseguros.com.br",
+        "ogmUsername": "ricardo.maida",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Erick Ishiy"
+      }
+    },
+    {
+      "FriendlyName": "roberta.kikuchi@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor, wfo.quality_manager" ],
+        "emailMinuto": "roberta.kikuchi@minutoseguros.com.br",
+        "ogmUsername": "roberta.kikuchi",
+        "roleCustom": "Supervisor",
+        "area": "Fidelização",
+        "equipe": "Lideres Fidelização"
+      }
+    },
+    {
+      "FriendlyName": "robson.silva@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "robson.silva@minutoseguros.com.br",
+        "ogmUsername": "robson.silva",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Erick Ishiy"
+      }
+    },
+    {
+      "FriendlyName": "rodrigo.ribeiro@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor, wfo.quality_manager" ],
+        "emailMinuto": "rodrigo.ribeiro@minutoseguros.com.br",
+        "ogmUsername": "rodrigo.ribeiro",
+        "roleCustom": "Supervisor",
+        "area": "Seguro Novo",
+        "equipe": "Supervisores Vendas"
+      }
+    },
+    {
+      "FriendlyName": "rodrigo.rosendo@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "rodrigo.rosendo@minutoseguros.com.br",
+        "ogmUsername": "rodrigo.rosendo",
+        "roleCustom": "Treinamento",
+        "area": "RE & Beneficios",
+        "equipe": "Ramos Elementares - Venda"
+      }
+    },
+    {
+      "FriendlyName": "rodrigo.victor@creditas.com",
+      "Attributes": {
+        "roles": [ "admin,wfo.full_access" ],
+        "emailMinuto": "rodrigo.victor@minutoseguros.com.br",
+        "ogmUsername": "rodrigo.victor",
+        "roleCustom": "Admin",
+        "area": "TI",
+        "equipe": "TI"
+      }
+    },
+    {
+      "FriendlyName": "rodrigo.luis@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "rodrigo.luis@minutoseguros.com.br",
+        "ogmUsername": "rodrigo.luis",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Diego Andreoli"
+      }
+    },
+    {
+      "FriendlyName": "roger.aguiar@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "roger.aguiar@minutoseguros.com.br",
+        "ogmUsername": "roger.aguiar",
+        "roleCustom": "Central",
+        "area": "Fidelização",
+        "equipe": "Pre Renovacao"
+      }
+    },
+    {
+      "FriendlyName": "rosa.silva@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "rosa.silva@minutoseguros.com.br",
+        "ogmUsername": "rosa.silva",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Administrativo - Pós Vendas"
+      }
+    },
+    {
+      "FriendlyName": "roseli.leiva@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "roseli.leiva@minutoseguros.com.br",
+        "ogmUsername": "roseli.leiva",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Erick Ishiy"
+      }
+    },
+    {
+      "FriendlyName": "ruan.sousa@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "ruan.sousa@minutoseguros.com.br",
+        "ogmUsername": "ruan.sousa",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Pagamento - Pós Vendas"
+      }
+    },
+    {
+      "FriendlyName": "ruth.silva@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "ruth.silva@minutoseguros.com.br",
+        "ogmUsername": "ruth.silva",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Projeto Porto Seguros"
+      }
+    },
+    {
+      "FriendlyName": "sabrina.pires@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor, wfo.quality_manager" ],
+        "emailMinuto": "sabrina.pires@minutoseguros.com.br",
+        "ogmUsername": "sabrina.pires",
+        "roleCustom": "Supervisor",
+        "area": "Pós-vendas",
+        "equipe": "Administrativo - Pós Vendas"
+      }
+    },
+    {
+      "FriendlyName": "sandayara.santana@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "sandayara.santana@minutoseguros.com.br",
+        "ogmUsername": "sandayara.santana",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Erick Ishiy"
+      }
+    },
+    {
+      "FriendlyName": "sandra.torrezani@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "sandra.torrezani@minutoseguros.com.br",
+        "ogmUsername": "sandra.torrezani",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Roberta Kikuchi"
+      }
+    },
+    {
+      "FriendlyName": "sara.gomes@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "sara.gomes2@minutoseguros.com.br",
+        "ogmUsername": "sara.gomes2",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Erick Ishiy"
+      }
+    },
+    {
+      "FriendlyName": "simone.florentino@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "simone.florentino@minutoseguros.com.br",
+        "ogmUsername": "simone.florentino",
+        "roleCustom": "Central",
+        "area": "Central",
+        "equipe": "Central - Telefone"
+      }
+    },
+    {
+      "FriendlyName": "simone.rosa@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "simone.rosa@minutoseguros.com.br",
+        "ogmUsername": "simone.rosa",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Diego Andreoli"
+      }
+    },
+    {
+      "FriendlyName": "stephanie.fernandes@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "stephanie.fernandes@minutoseguros.com.br",
+        "ogmUsername": "stephanie.fernandes",
+        "roleCustom": "Central",
+        "area": "Central",
+        "equipe": "Central - Telefone"
+      }
+    },
+    {
+      "FriendlyName": "sueli.santos@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "sueli.santos@minutoseguros.com.br",
+        "ogmUsername": "sueli.santos",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Wallace Nascimento"
+      }
+    },
+    {
+      "FriendlyName": "suzana.silva@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "suzana.silva@minutoseguros.com.br",
+        "ogmUsername": "suzana.silva",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Roberta Kikuchi"
+      }
+    },
+    {
+      "FriendlyName": "talita.silva@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "talita.silva@minutoseguros.com.br",
+        "ogmUsername": "talita.silva",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Sinistro - Pós-vendas"
+      }
+    },
+    {
+      "FriendlyName": "tamires.toman@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "tamires.toman@minutoseguros.com.br",
+        "ogmUsername": "tamires.toman",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Wallace Nascimento"
+      }
+    },
+    {
+      "FriendlyName": "tania.amici@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "tania.amici@minutoseguros.com.br",
+        "ogmUsername": "tania.amici",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Roberta Kikuchi"
+      }
+    },
+    {
+      "FriendlyName": "tatiane.vilas@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "tatiane.vilas@minutoseguros.com.br",
+        "ogmUsername": "tatiane.vilas",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Wallace Nascimento"
+      }
+    },
+    {
+      "FriendlyName": "tatiane.lima@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "tatiane.lima@minutoseguros.com.br",
+        "ogmUsername": "tatiane.lima",
+        "roleCustom": "Agent",
+        "area": "RE & Beneficios",
+        "equipe": "Ramos Elementares - Venda"
+      }
+    },
+    {
+      "FriendlyName": "thaina.carpi@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "thaina.carpi@minutoseguros.com.br",
+        "ogmUsername": "thaina.carpi",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Adriano Cadenazzi"
+      }
+    },
+    {
+      "FriendlyName": "thairiny.marin@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "thairiny.marin@minutoseguros.com.br",
+        "ogmUsername": "thairiny.marin",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Roberta Kikuchi"
+      }
+    },
+    {
+      "FriendlyName": "thais.marques@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "thais.marques@minutoseguros.com.br",
+        "ogmUsername": "thais.marques",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Roberta Kikuchi"
+      }
+    },
+    {
+      "FriendlyName": "thais.ribeiro@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "thais.ribeiro@minutoseguros.com.br",
+        "ogmUsername": "thais.ribeiro",
+        "roleCustom": "Central",
+        "area": "Central",
+        "equipe": "Central - Chat"
+      }
+    },
+    {
+      "FriendlyName": "thais.costa1@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor, wfo.quality_manager" ],
+        "emailMinuto": "thais.costa@minutoseguros.com.br",
+        "ogmUsername": "thais.costa",
+        "roleCustom": "Supervisor",
+        "area": "Treinamento",
+        "equipe": "Processos (Treinamento)"
+      }
+    },
+    {
+      "FriendlyName": "thais.antunes1@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "thais.antunes@minutoseguros.com.br",
+        "ogmUsername": "thais.antunes",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Wallace Nascimento"
+      }
+    },
+    {
+      "FriendlyName": "thais.lima1@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "thais.lima@minutoseguros.com.br",
+        "ogmUsername": "thais.lima",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Valeria Gonçalves"
+      }
+    },
+    {
+      "FriendlyName": "thais.matos1@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "thais.matos@minutoseguros.com.br",
+        "ogmUsername": "thais.matos",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Pendencia e Emissão - Pós Vendas"
+      }
+    },
+    {
+      "FriendlyName": "thaisa.vitorino@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "thaisa.vitorino@minutoseguros.com.br",
+        "ogmUsername": "thaisa.vitorino",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Roberta Kikuchi"
+      }
+    },
+    {
+      "FriendlyName": "thalyssia.lima@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "thalyssia.lima@minutoseguros.com.br",
+        "ogmUsername": "thalyssia.lima",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Pendencia e Emissão - Pós Vendas"
+      }
+    },
+    {
+      "FriendlyName": "thauany.maia@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "thauany.maia@minutoseguros.com.br",
+        "ogmUsername": "thauany.maia",
+        "roleCustom": "Central",
+        "area": "Fidelização",
+        "equipe": "Pre Renovacao"
+      }
+    },
+    {
+      "FriendlyName": "thiago.affonso@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "thiago.affonso@minutoseguros.com.br",
+        "ogmUsername": "thiago.affonso",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Roberta Kikuchi"
+      }
+    },
+    {
+      "FriendlyName": "thiago.souza2@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "thiago.souza@minutoseguros.com.br",
+        "ogmUsername": "thiago.souza",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Diego Andreoli"
+      }
+    },
+    {
+      "FriendlyName": "vagner.jesus@creditas.com",
+      "Attributes": {
+        "roles": [ "admin,wfo.full_access" ],
+        "emailMinuto": "vagner.jesus@minutoseguros.com.br",
+        "ogmUsername": "vagner.jesus",
+        "roleCustom": "Admin",
+        "area": "TI",
+        "equipe": "TI"
+      }
+    },
+    {
+      "FriendlyName": "valdir.junior@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "valdir.junior@minutoseguros.com.br",
+        "ogmUsername": "valdir.junior",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Roberta Kikuchi"
+      }
+    },
+    {
+      "FriendlyName": "valeria.lemes@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "valeria.lemes@minutoseguros.com.br",
+        "ogmUsername": "valeria.lemes",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Margareth Tumbert"
+      }
+    },
+    {
+      "FriendlyName": "valeria.goncalves@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor, wfo.quality_manager" ],
+        "emailMinuto": "valeria.goncalves@minutoseguros.com.br",
+        "ogmUsername": "valeria.goncalves",
+        "roleCustom": "Supervisor",
+        "area": "Seguro Novo",
+        "equipe": "Supervisores Vendas"
+      }
+    },
+    {
+      "FriendlyName": "valkiria.oliveira@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "valkiria.oliveira@minutoseguros.com.br",
+        "ogmUsername": "valkiria.oliveira",
+        "roleCustom": "Central",
+        "area": "Central",
+        "equipe": "Central - Telefone"
+      }
+    },
+    {
+      "FriendlyName": "vanessa.barros@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "vanessa.barros@minutoseguros.com.br",
+        "ogmUsername": "vanessa.barros",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Wallace Nascimento"
+      }
+    },
+    {
+      "FriendlyName": "vanessa.santos1@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "vanessa.santos@minutoseguros.com.br",
+        "ogmUsername": "vanessa.santos",
+        "roleCustom": "Central",
+        "area": "Central",
+        "equipe": "Central - Telefone"
+      }
+    },
+    {
+      "FriendlyName": "vanessa.goncalves@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "vanessa.goncalves@minutoseguros.com.br",
+        "ogmUsername": "vanessa.goncalves",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Devolução de valores - Pós-vendas"
+      }
+    },
+    {
+      "FriendlyName": "vanessa.costa@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "vanessa.costa@minutoseguros.com.br",
+        "ogmUsername": "vanessa.costa",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Transmissao"
+      }
+    },
+    {
+      "FriendlyName": "vanessa.xavier@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor, wfo.quality_manager" ],
+        "emailMinuto": "vanessa.xavier@minutoseguros.com.br",
+        "ogmUsername": "vanessa.xavier",
+        "roleCustom": "Supervisor",
+        "area": "Fidelização",
+        "equipe": "Supervisores Fidelização"
+      }
+    },
+    {
+      "FriendlyName": "vanessa.macedo@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "vanessa.macedo@minutoseguros.com.br",
+        "ogmUsername": "vanessa.macedo",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Pagamento - Pós Vendas"
+      }
+    },
+    {
+      "FriendlyName": "vanusa.mata@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "vanusa.mata@minutoseguros.com.br",
+        "ogmUsername": "vanusa.mata",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Fernanda Pires"
+      }
+    },
+    {
+      "FriendlyName": "victor.benites@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "victor.benites@minutoseguros.com.br",
+        "ogmUsername": "victor.benites",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Adriano Cadenazzi"
+      }
+    },
+    {
+      "FriendlyName": "victor.coelho@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "victor.coelho@minutoseguros.com.br",
+        "ogmUsername": "victor.coelho",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Transmissao"
+      }
+    },
+    {
+      "FriendlyName": "vinicius.saraiva@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "vinicius.saraiva@minutoseguros.com.br",
+        "ogmUsername": "vinicius.saraiva",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Roberta Kikuchi"
+      }
+    },
+    {
+      "FriendlyName": "vito.silva@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "vito.silva@minutoseguros.com.br",
+        "ogmUsername": "vito.silva",
+        "roleCustom": "Central",
+        "area": "Pós-vendas",
+        "equipe": "Administrativo - Pós Vendas"
+      }
+    },
+    {
+      "FriendlyName": "vitoria.borges@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "vitoria.borges@minutoseguros.com.br",
+        "ogmUsername": "vitoria.borges",
+        "roleCustom": "Central",
+        "area": "Central",
+        "equipe": "Central - Telefone"
+      }
+    },
+    {
+      "FriendlyName": "vivian.soares1@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "vivian.soares@minutoseguros.com.br",
+        "ogmUsername": "vivian.soares",
+        "roleCustom": "Treinamento",
+        "area": "Fidelização",
+        "equipe": "Margareth Tumbert"
+      }
+    },
+    {
+      "FriendlyName": "wallace.nascimento@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor, wfo.quality_manager" ],
+        "emailMinuto": "wallace.nascimento@minutoseguros.com.br",
+        "ogmUsername": "wallace.nascimento",
+        "roleCustom": "Supervisor",
+        "area": "Fidelização",
+        "equipe": "Lideres Fidelização"
+      }
+    },
+    {
+      "FriendlyName": "wanderson.rocha@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor, wfo.quality_manager" ],
+        "emailMinuto": "wanderson.rocha@minutoseguros.com.br",
+        "ogmUsername": "wanderson.rocha",
+        "roleCustom": "Supervisor",
+        "area": "Seguro Novo",
+        "equipe": "Supervisores Vendas"
+      }
+    },
+    {
+      "FriendlyName": "washington.ribeiro@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "washington.ribeiro@minutoseguros.com.br",
+        "ogmUsername": "washington.ribeiro",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Erick Ishiy"
+      }
+    },
+    {
+      "FriendlyName": "willian.santos1@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "willian.santos@minutoseguros.com.br",
+        "ogmUsername": "willian.santos",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Erick Ishiy"
+      }
+    },
+    {
+      "FriendlyName": "willian.caner@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "willian.caner@minutoseguros.com.br",
+        "ogmUsername": "willian.caner",
+        "roleCustom": "Agent",
+        "area": "Seguro Novo",
+        "equipe": "Valeria Gonçalves"
+      }
+    },
+    {
+      "FriendlyName": "yasmin.souza@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "yasmin.souza@minutoseguros.com.br",
+        "ogmUsername": "yasmin.souza",
+        "roleCustom": "Central",
+        "area": "Central",
+        "equipe": "Central - Telefone"
+      }
+    },
+    {
+      "FriendlyName": "yuri.silva@creditas.com",
+      "Attributes": {
+        "roles": [ "supervisor" ],
+        "emailMinuto": "yuri.silva@minutoseguros.com.br",
+        "ogmUsername": "yuri.silva",
+        "roleCustom": "Central",
+        "area": "Central",
+        "equipe": "Central - Telefone"
+      }
+    },
+    {
+      "FriendlyName": "zaida.freitas@creditas.com",
+      "Attributes": {
+        "roles": [ "agent" ],
+        "emailMinuto": "zaida.freitas@minutoseguros.com.br",
+        "ogmUsername": "zaida.freitas",
+        "roleCustom": "Agent",
+        "area": "Fidelização",
+        "equipe": "Wallace Nascimento"
+      }
+    }
+  ]
